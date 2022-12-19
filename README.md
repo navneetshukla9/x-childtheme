@@ -1,2 +1,2 @@
-# viterbischool-theme
- Viterbi School Departments Child Theme
+# bischool-theme
+bi School Departments Child Theme
